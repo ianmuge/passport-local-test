@@ -1,16 +1,17 @@
 {
-  "name": "logistics-mvp",
+  "name": "passport-local-test",
   "version": "0.0.1",
   "private": true,
-  "description": "Logistics systems MVP",
+  "description": "passport auth",
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon --watch . -e js,css,twig --inspect index.js",
     "start": "node index.js"
   },
   "keywords": [
-    "logistics",
-    "mvp"
+    "passport",
+    "local",
+    "auth"
   ],
   "author": "Ian Muge",
   "license": "ISC",
